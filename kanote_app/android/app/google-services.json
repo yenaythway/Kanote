@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440440539648",
+    "project_id": "kanote-68479",
+    "storage_bucket": "kanote-68479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440440539648:android:0960d7670d86bf191026e5",
+        "android_client_info": {
+          "package_name": "com.kanote.kanote_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440440539648-qjun7vvjtofu560hlrk00l7om3f2egd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvesz9EzbSRimtzfyaSeAO6IHjZM9v-Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440440539648-qjun7vvjtofu560hlrk00l7om3f2egd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

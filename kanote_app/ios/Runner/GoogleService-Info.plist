@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>440440539648-lh1ukk2o490j7lsmt8g7bbu9g65c10aa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.440440539648-lh1ukk2o490j7lsmt8g7bbu9g65c10aa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEWdCFUsp64hFSVsI0qTxwVViQ_Q_X-4E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>440440539648</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kanote.kanoteApp</string>
+	<key>PROJECT_ID</key>
+	<string>kanote-68479</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kanote-68479.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:440440539648:ios:4535504a02900a551026e5</string>
+</dict>
+</plist>
